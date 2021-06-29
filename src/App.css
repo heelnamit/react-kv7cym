@@ -1,0 +1,10 @@
+.userCard {
+  width: 40%;
+    height:auto;
+    background-color: #BE6E46;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    border: 2px solid black;
+    margin-top: 10px;
+}
